@@ -1,13 +1,24 @@
 # 🚀 JomNum-Tech
 
+<!-- Animated typing text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=44F7B0&center=true&vCenter=true&width=435&lines=Welcome+to+JomNum-Tech!;Innovating+Through+Technology;Open+Source+Advocates;Building+Cambodia's+Tech+Future" alt="Typing animation" />
+</div>
+
 Welcome to **JomNum-Tech**! We are a team dedicated to [mission or purpose]. Our projects focus on [key areas or technologies], and we strive to contribute valuable solutions to the community.
 
 ## 📌 About Us
-- **Founded:** [Year]
+
+- **Founded:** 2025
 - **Industry:** Information Technology
 - **Location:** Phnom Penh, Cambodia
-- **Technologies We Use:** [List of Technologies]
-- **Open Source Contributions:** [Mention if applicable]
+- **Technologies:**
+  
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </div>
 
 ## 🌍 Our Projects
 Here are some of our key repositories:
