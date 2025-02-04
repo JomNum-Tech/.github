@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=44F7B0&center=true&vCenter=true&width=435&lines=Welcome+to+JomNum-Tech!;Innovating+Through+Technology;Open+Source+Advocates;Building+Cambodia's+Tech+Future" alt="Typing animation" />
 </div>
 
+<!-- Animated rocket separator -->
+<div align="center">
+  <img src="../assets/animations/rocket-launch.svg" alt="animated rocket" width="200" height="90" />
+</div>
+
 Welcome to **JomNum-Tech**! We are a team dedicated to [mission or purpose]. Our projects focus on [key areas or technologies], and we strive to contribute valuable solutions to the community.
 
 ## 📌 About Us
